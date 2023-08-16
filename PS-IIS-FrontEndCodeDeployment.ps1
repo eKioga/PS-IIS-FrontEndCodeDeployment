@@ -26,7 +26,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         
-        Title="SRV Deployment" Height="481.833" Width="510.61">
+        Title="WEB Deployment" Height="481.833" Width="510.61">
     <Grid Margin="0,0,3.6,0">
         <TextBox Name ="t1" HorizontalAlignment="Left" Height="21" Margin="120,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="355"/>
         <TextBox Name ="t2" HorizontalAlignment="Left" Height="21" Margin="120,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="355"/>
