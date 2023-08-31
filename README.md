@@ -29,7 +29,7 @@ I created this PowerShell script for production use at a previous employer of mi
 It's designed for deploying front-end code to a Windows IIS server. From there, DFS would replicate it out to the rest of the web farms. After the script completes, it sends an email to a change management distribution list. The email describes which customer it updated to which version and includes the user account that executed the update. This ensures accountability with developers while keeping them agile.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get walk you through the process of executing this script in your environment.
+This guide will walk you through the process of executing this script in your environment.
 
 ### Prerequisites
 - A newer version of PowerShell is highly recommended. 
